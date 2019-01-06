@@ -30,7 +30,7 @@ public class UserDao {
     u3.setAge(16);
     u3.setName("Mike");
     u3.setAccount("mike");
-    u2.setEmail("mike@codegym.vn");
+    u3.setEmail("mike@codegym.vn");
     u3.setPassword("123456");
     users.add(u3);
   }
